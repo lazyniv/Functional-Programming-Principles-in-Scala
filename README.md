@@ -1,0 +1,1 @@
+This repository contains assignments being solved during the completion of the [Functional Programming Principles in Scala](https://www.coursera.org/learn/scala-functional-programming/) course.
